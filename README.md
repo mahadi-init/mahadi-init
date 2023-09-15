@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mahadi Hasan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJs and Backend
-- 💞️ I’m looking to collaborate on Web Teachnology
-- 📫 How to reach me mahadi.init@proton.me
+- 👋 Hi, I’m **Mahadi Hasan**
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently learning **NextJs** and **Backend**
+- 💞️ I’m looking to collaborate on **Web Teachnology**
+- 📫 How to reach me `mahadi.init@proton.me`
