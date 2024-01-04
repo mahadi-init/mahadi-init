@@ -2,4 +2,4 @@
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **NextJs** and **Backend**
 - 💞️ I’m looking to collaborate on **Web Teachnology**
-- 📫 How to reach me `init.mahadi@gmail.com`
+- 📫 How to reach me `mahadi.dev@outlook.com`
