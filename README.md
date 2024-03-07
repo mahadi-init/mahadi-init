@@ -1,4 +1,4 @@
-# Hi there, I'm Mahadi HAsan 👋
+# Hi there, I'm Mahadi Hasan 👋
 
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently working in **MERN Stack**
