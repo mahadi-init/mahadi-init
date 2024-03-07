@@ -22,7 +22,7 @@
 
 ### GitHub Stats:
 
-![Mahadi's GitHub stats](https://mahadi-github-states.vercel.app/api?username=mahadi-init)
+![Mahadi's GitHub stats](https://mahadi-github-states.vercel.app/api?username=mahadi-init&show_icons=true&theme=radical)
 
 <!-- ### Projects:
 
