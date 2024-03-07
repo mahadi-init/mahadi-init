@@ -1,6 +1,5 @@
 # Hi there, I'm [Your Name]! 👋
 
-- 👋 Hi, I’m **Mahadi Hasan**
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently working in **MERN Stack**
 - 💞️ I’m looking to collaborate on **Web Teachnology**
