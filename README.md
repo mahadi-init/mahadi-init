@@ -19,25 +19,3 @@
 <img width="68px" style="margin-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img width="68px" style="margin-right: 15px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
-
-### GitHub Stats:
-
-![Mahadi's GitHub stats](https://mahadi-github-states.vercel.app/api?username=mahadi-init&show_icons=true&theme=radical)
-
-<!-- ### Projects:
-
-- [Project 1]: [Description/What it does].
-- [Project 2]: [Description/What it does].
-- [Project 3]: [Description/What it does].
-
-### Recent Blog Posts:
-
-- [Blog Post 1]: [Title and Summary with Link].
-- [Blog Post 2]: [Title and Summary with Link].
-- [Blog Post 3]: [Title and Summary with Link].
-
-### Connect with Me:
-
-[Include links to your social media profiles, website, or blog] -->
-
-Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
