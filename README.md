@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently working in **MERN Stack**
-- 💞️ I’m looking to collaborate on **Web Teachnology**
+- 💞️ I’m looking to collaborate on **Web Technology**
 - 📫 How to reach me `mahadi.dev@outlook.com`
 
 ### Languages and Tools:
